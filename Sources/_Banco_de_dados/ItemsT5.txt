@@ -1,0 +1,22 @@
+500 Anzol das Lontras
+501 Bebida de 37 Anos
+502 Castiçal Dourado da Melhor Qualidade
+503 Contêiner com desenho de Anise Estrelar
+504 Diário dos Piratas Cox
+505 Elixir da Juventude
+506 Erva Dourada de 102 anos
+507 Escama de Peixe Dourada
+508 Estátua de Dragão Dourado Desbotado
+509 Ferramento de Conserto de Ferro Fundido
+510 Hesperia Empalhada
+511 Lágrimas da Estátua
+512 Larva Branca Empalhada
+513 Pingente de Coral de Cinco Cores 
+514 Quartzo Azul Claro
+515 Relatório de Observação
+516 Retrato de Forma dos Ancestrais
+517 Rocha Não Identificada
+518 Tecido com desenho de Alta Qualidade
+
+
+86400

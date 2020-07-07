@@ -1,0 +1,14 @@
+400 Adaga de Pirata Roubado
+401 Caixa Velha com Moeda de Ouro
+402 Castiçal de Bronze
+403 Chave do Pirata
+404 Decoração de Concha de Marisco
+405 Elmo do Cavalaria Naval
+406 Estátua de Dragão com o Pescoço Cortado
+407 Estilhaço de Ametista
+408 Fio de Cinco Cores
+409 Lança do Cavalaria Naval
+410 Líquido de Lava Endurecido
+411 Manual de Treinamento do Barqueiro
+412 Pedaço de Sal Turquesa
+413 Remédio de Mil Doenças

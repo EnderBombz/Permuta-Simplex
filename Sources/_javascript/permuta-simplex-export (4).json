@@ -1,0 +1,463 @@
+{
+
+    "T1": {
+        "-MBKxi35p4ekd7Fkf_QC": {
+            "codigo": "100",
+            "nome": "Areia Dourada",
+            "tier": "T1",
+            "tipo": "Permuta"
+        },
+        "-MBKxl9aSGThO-G8fD37": {
+            "codigo": "101",
+            "nome": "Bolsa de Sementes de Cerejeira",
+            "tier": "T1",
+            "tipo": "Permuta"
+        },
+        "-MBKxnK5AJFYCHKXpOkz": {
+            "codigo": "102",
+            "nome": "Bolsa de Sementes de Flor Ancinho",
+            "tier": "T1",
+            "tipo": "Permuta"
+        },
+        "-MBKxoy5L5BEeO1XTQh5": {
+            "codigo": "103",
+            "nome": "Bolsa de Sementes de Flor Loa",
+            "tier": "T1",
+            "tipo": "Permuta"
+        },
+        "-MBKxqbMLNuuzaJrwbk_": {
+            "codigo": "104",
+            "nome": "Escultura de Jangada",
+            "tier": "T1",
+            "tipo": "Permuta"
+        },
+        "-MBKxsNyAyYnnbkt6vif": {
+            "codigo": "105",
+            "nome": "Espinha de Peixe Gigante",
+            "tier": "T1",
+            "tipo": "Permuta"
+        },
+        "-MBKxvTiXo6VhKVDhebh": {
+            "codigo": "106",
+            "nome": "Estátua de Gaivota Empoeirada",
+            "tier": "T1",
+            "tipo": "Permuta"
+        },
+        "-MBKxxYy754QkwK1V2df": {
+            "codigo": "107",
+            "nome": "Estilhaço de Jarra Ancestral",
+            "tier": "T1",
+            "tipo": "Permuta"
+        },
+        "-MBKxzH5FD74VCK3n1Q8": {
+            "codigo": "108",
+            "nome": "Mural Ancestral Desconhecido",
+            "tier": "T1",
+            "tipo": "Permuta"
+        },
+        "-MBKy0zLSgsBHlRTYcmf": {
+            "codigo": "109",
+            "nome": "Pólvora do Pirata",
+            "tier": "T1",
+            "tipo": "Permuta"
+        },
+        "-MBKy2Qyqh4yu44ShBPq": {
+            "codigo": "110",
+            "nome": "Ração de Combate Naval",
+            "tier": "T1",
+            "tipo": "Permuta"
+        },
+        "-MBKy7xqOWCC1A4IMpoW": {
+            "codigo": "111",
+            "nome": "Rosa Azul Seca",
+            "tier": "T1",
+            "tipo": "Permuta"
+        },
+        "-MBKy9fSYbSXRFOx-uBh": {
+            "codigo": "112",
+            "nome": "Sashimi de Moela Mastigável",
+            "tier": "T1",
+            "tipo": "Permuta"
+        },
+        "-MBKyB-CjwI0sOlxn585": {
+            "codigo": "113",
+            "nome": "Terra Fértil",
+            "tier": "T1",
+            "tipo": "Permuta"
+        }
+    },
+    "T2": {
+        "-MBLKpHEUOhQhSz-97IA": {
+            "codigo": "200",
+            "nome": "Água Potável Purificada",
+            "tier": "T2",
+            "tipo": "Permuta"
+        },
+        "-MBLLGqvFDKWmcmNglma": {
+            "codigo": "201",
+            "nome": "Caixa de Ostra da Melhor Qualidade",
+            "tier": "T2",
+            "tipo": "Permuta"
+        },
+        "-MBLLvRdm8TkEVavHatu": {
+            "codigo": "202",
+            "nome": "Enfeite de Casca Caranguejo Eremita",
+            "tier": "T2",
+            "tipo": "Permuta"
+        },
+        "-MBLM0Pd_cvrBY4i2_UA": {
+            "codigo": "203",
+            "nome": "Esfera de Cinco Cores",
+            "tier": "T2",
+            "tipo": "Permuta"
+        },
+        "-MBLM2YsMNS5965F8m2E": {
+            "codigo": "204",
+            "nome": "Espinho do Ouriço-do-mar",
+            "tier": "T2",
+            "tipo": "Permuta"
+        },
+        "-MBLM4zTqGas3p9Ra1f0": {
+            "codigo": "205",
+            "nome": "Item de Resgate Marítimo",
+            "tier": "T2",
+            "tipo": "Permuta"
+        },
+        "-MBLM6piUSE6fVxZ71te": {
+            "codigo": "206",
+            "nome": "Marmita da Vila da Ilha",
+            "tier": "T2",
+            "tipo": "Permuta"
+        },
+        "-MBLM9r7OH_6z0YllS1c": {
+            "codigo": "207",
+            "nome": "Mastro de Navio Pirata",
+            "tier": "T2",
+            "tipo": "Permuta"
+        },
+        "-MBLMDGq0SmWMUen5TDp": {
+            "codigo": "208",
+            "nome": "Moeda de Ouro do Castelo Cron",
+            "tier": "T2",
+            "tipo": "Permuta"
+        },
+        "-MBLMFDy3B9gbSflAQiR": {
+            "codigo": "209",
+            "nome": "Moeda de Ouro do Pirata",
+            "tier": "T2",
+            "tipo": "Permuta"
+        },
+        "-MBLMHdyARK3vW3Mtqqw": {
+            "codigo": "210",
+            "nome": "Pepino do Mar de Narvo",
+            "tier": "T2",
+            "tipo": "Permuta"
+        },
+        "-MBLMJLMZ284GNeqwsBE": {
+            "codigo": "211",
+            "nome": "Tábua de Pedra Ampla",
+            "tier": "T2",
+            "tipo": "Permuta"
+        },
+        "-MBLMM3UllgoQlIRC_cI": {
+            "codigo": "212",
+            "nome": "Tentáculo da Criatura",
+            "tier": "T2",
+            "tipo": "Permuta"
+        },
+        "-MBLMOBDy3RcgWgTaIOl": {
+            "codigo": "213",
+            "nome": "Torre de Rocha Balanceada",
+            "tier": "T2",
+            "tipo": "Permuta"
+        }
+    },
+    "T3": {
+        "-MBLNrV2VUKSKE0bgqgC": {
+            "codigo": "301",
+            "nome": "Binóculos de Batedor",
+            "tier": "T3",
+            "tipo": "Permuta"
+        },
+        "-MBLNtB90x5krmecRCaB": {
+            "codigo": "302",
+            "nome": "Caixa de Suprimento dos Piratas",
+            "tier": "T3",
+            "tipo": "Permuta"
+        },
+        "-MBLNv3ei8pWEwaFhm8F": {
+            "codigo": "303",
+            "nome": "Carpete com desenho de Esqueleto",
+            "tier": "T3",
+            "tipo": "Permuta"
+        },
+        "-MBLNyGHs6odWgEVmRCU": {
+            "codigo": "304",
+            "nome": "Casaco de Couro de Doninha",
+            "tier": "T3",
+            "tipo": "Permuta"
+        },
+        "-MBLO-O9MAGwgsF0okji": {
+            "codigo": "305",
+            "nome": "Estilhaço de Estalactite",
+            "tier": "T3",
+            "tipo": "Permuta"
+        },
+        "-MBLO1LeqoL9W-mci-VO": {
+            "codigo": "306",
+            "nome": "Faca de Cozinha Meia Lua",
+            "tier": "T3",
+            "tipo": "Permuta"
+        },
+        "-MBLO3m9gtzqvjXJQ64t": {
+            "codigo": "307",
+            "nome": "Mapa de Tesouro rasgado do Pirata",
+            "tier": "T3",
+            "tipo": "Permuta"
+        },
+        "-MBLO5XlAjtwJ7Wb5jMm": {
+            "codigo": "308",
+            "nome": "Missiva Velha",
+            "tier": "T3",
+            "tipo": "Permuta"
+        },
+        "-MBLO7TOPnKnXTrUAUG_": {
+            "codigo": "309",
+            "nome": "Pacote de Vela Azul",
+            "tier": "T3",
+            "tipo": "Permuta"
+        },
+        "-MBLO9LtwxvM3NyOG07k": {
+            "codigo": "310",
+            "nome": "Pilha de Ervas Raras",
+            "tier": "T3",
+            "tipo": "Permuta"
+        },
+        "-MBLOB4HYgtg_K_1Bb5H": {
+            "codigo": "311",
+            "nome": "Rede de Lopters",
+            "tier": "T3",
+            "tipo": "Permuta"
+        },
+        "-MBLOCiOUfHfKJ7K5Afh": {
+            "codigo": "312",
+            "nome": "Sangue Espesso de Criatura",
+            "tier": "T3",
+            "tipo": "Permuta"
+        },
+        "-MBLOELOZDeh-1D63_Bf": {
+            "codigo": "313",
+            "nome": "Xícara com Decoração de Esqueleto",
+            "tier": "T3",
+            "tipo": "Permuta"
+        },
+        "-MBLQjH9oi6Hd3OpoDCq": {
+            "codigo": "300",
+            "nome": "Ampulheta Antiga",
+            "tier": "T3",
+            "tipo": "Permuta"
+        }
+    },
+    "T4": {
+        "-MBLTAuTa3WCO5EvWT8Z": {
+            "codigo": "400",
+            "nome": "Adaga de Pirata Roubado",
+            "tier": "T4",
+            "tipo": "Permuta"
+        },
+        "-MBLTCpYL8CoeTqUxUHh": {
+            "codigo": "401",
+            "nome": "Caixa Velha com Moeda de Ouro",
+            "tier": "T4",
+            "tipo": "Permuta"
+        },
+        "-MBLTER1NY2AmbU-hykb": {
+            "codigo": "402",
+            "nome": "Castiçal de Bronze",
+            "tier": "T4",
+            "tipo": "Permuta"
+        },
+        "-MBLTFterpKWgD29Fby0": {
+            "codigo": "403",
+            "nome": "Chave do Pirata",
+            "tier": "T4",
+            "tipo": "Permuta"
+        },
+        "-MBLTHq9hLhjjG6pDNMM": {
+            "codigo": "404",
+            "nome": "Decoração de Concha de Marisco",
+            "tier": "T4",
+            "tipo": "Permuta"
+        },
+        "-MBLTJJPPL_K6ZfhpzWA": {
+            "codigo": "405",
+            "nome": "Elmo do Cavalaria Naval",
+            "tier": "T4",
+            "tipo": "Permuta"
+        },
+        "-MBLTKkXhyD5WW5KiNox": {
+            "codigo": "406",
+            "nome": "Estátua de Dragão com o Pescoço Cortado",
+            "tier": "T4",
+            "tipo": "Permuta"
+        },
+        "-MBLTMDXZ5Vb5g5i-JFV": {
+            "codigo": "407",
+            "nome": "Estilhaço de Ametista",
+            "tier": "T4",
+            "tipo": "Permuta"
+        },
+        "-MBLTNeulWPZnLIm76ZN": {
+            "codigo": "408",
+            "nome": "Fio de Cinco Cores",
+            "tier": "T4",
+            "tipo": "Permuta"
+        },
+        "-MBLTPMPs6G5e3Skgs3b": {
+            "codigo": "409",
+            "nome": "Lança do Cavalaria Naval",
+            "tier": "T4",
+            "tipo": "Permuta"
+        },
+        "-MBLTR3HOQAZr9OglRbg": {
+            "codigo": "410",
+            "nome": "Líquido de Lava Endurecido",
+            "tier": "T4",
+            "tipo": "Permuta"
+        },
+        "-MBLTSfmEKQDvitv6bYZ": {
+            "codigo": "411",
+            "nome": "Manual de Treinamento do Barqueiro",
+            "tier": "T4",
+            "tipo": "Permuta"
+        },
+        "-MBLTUxeDhI-39l-Jn1j": {
+            "codigo": "412",
+            "nome": "Pedaço de Sal Turquesa",
+            "tier": "T4",
+            "tipo": "Permuta"
+        },
+        "-MBLTWTu2fDQZpedVHEd": {
+            "codigo": "413",
+            "nome": "Remédio de Mil Doenças",
+            "tier": "T4",
+            "tipo": "Permuta"
+        }
+    },
+    "T5": {
+        "-MBLV4cpterzx6WfsRPM": {
+            "codigo": "500",
+            "nome": "Anzol das Lontras",
+            "tier": "T5",
+            "tipo": "Permuta"
+        },
+        "-MBLV6YAZEf-uQbz2KQ5": {
+            "codigo": "501",
+            "nome": "Bebida de 37 Anos",
+            "tier": "T5",
+            "tipo": "Permuta"
+        },
+        "-MBLXKK1sugr3_VacmmU": {
+            "codigo": "502",
+            "nome": "Castiçal Dourado da Melhor Qualidade",
+            "tier": "T5",
+            "tipo": "Permuta"
+        },
+        "-MBLXMVI4bJ-bOwnhO_K": {
+            "codigo": "503",
+            "nome": "Contêiner com desenho de Anise Estrelar",
+            "tier": "T5",
+            "tipo": "Permuta"
+        },
+        "-MBLXOMHnoey88pWIkW4": {
+            "codigo": "504",
+            "nome": "Diário dos Piratas Cox",
+            "tier": "T5",
+            "tipo": "Permuta"
+        },
+        "-MBLXPuIZObZ5oqCJ1tI": {
+            "codigo": "505",
+            "nome": "Elixir da Juventude",
+            "tier": "T5",
+            "tipo": "Permuta"
+        },
+        "-MBLXRZmuZSPMKkdY5r0": {
+            "codigo": "506",
+            "nome": "Erva Dourada de 102 anos",
+            "tier": "T5",
+            "tipo": "Permuta"
+        },
+        "-MBLXTleG_OeD9mv6qZZ": {
+            "codigo": "507",
+            "nome": "Escama de Peixe Dourada",
+            "tier": "T5",
+            "tipo": "Permuta"
+        },
+        "-MBLXVyhSMapbQuiTnhP": {
+            "codigo": "508",
+            "nome": "Estátua de Dragão Dourado Desbotado",
+            "tier": "T5",
+            "tipo": "Permuta"
+        },
+        "-MBLXXt0UHXaz2rS9IRy": {
+            "codigo": "509",
+            "nome": "Ferramento de Conserto de Ferro Fundido",
+            "tier": "T5",
+            "tipo": "Permuta"
+        },
+        "-MBLX_rusUuHY6vIrk-N": {
+            "codigo": "510",
+            "nome": "Hesperia Empalhada",
+            "tier": "T5",
+            "tipo": "Permuta"
+        },
+        "-MBLXbn18hoKb-UINwBE": {
+            "codigo": "511",
+            "nome": "Lágrimas da Estátua",
+            "tier": "T5",
+            "tipo": "Permuta"
+        },
+        "-MBLXdaOlPVO8edHjSms": {
+            "codigo": "512",
+            "nome": "Larva Branca Empalhada",
+            "tier": "T5",
+            "tipo": "Permuta"
+        },
+        "-MBLXsN905LOSTkNhN1y": {
+            "codigo": "513",
+            "nome": "Pingente de Coral de Cinco Cores ",
+            "tier": "T5",
+            "tipo": "Permuta"
+        },
+        "-MBLXtzlr2ApgT9ifvXk": {
+            "codigo": "514",
+            "nome": "Quartzo Azul Claro",
+            "tier": "T5",
+            "tipo": "Permuta"
+        },
+        "-MBLXvgHGJBL-AnmmkB4": {
+            "codigo": "515",
+            "nome": "Relatório de Observação",
+            "tier": "T5",
+            "tipo": "Permuta"
+        },
+        "-MBLXzCH2KdvFtG-aR1-": {
+            "codigo": "516",
+            "nome": "Retrato de Forma dos Ancestrais",
+            "tier": "T5",
+            "tipo": "Permuta"
+        },
+        "-MBLY0LeCGurt21cRMtk": {
+            "codigo": "517",
+            "nome": "Rocha Não Identificada",
+            "tier": "T5",
+            "tipo": "Permuta"
+        },
+        "-MBLY2U91pIHa_MgQ8-d": {
+            "codigo": "518",
+            "nome": "Tecido com desenho de Alta Qualidade",
+            "tier": "T5",
+            "tipo": "Permuta"
+        }
+    }
+}

@@ -1,0 +1,316 @@
+body {
+    background-color: #d1d1d1;
+}
+
+#menu1:hover {
+    transition: 2s all;
+    color: #ffd740;
+}
+
+.logo-bdo {
+    height: 60px;
+}
+
+#conteudo {
+    padding: 45px;
+    background-color: #d1d1d1;
+}
+
+.display {
+    margin-top: 100px;
+    margin-bottom: 160px;
+}
+
+#carousel-example-2 {
+    margin-top: 60px;
+}
+
+table#tabHeadtab {
+    width: 101.2%;
+    background-color: #f8f7f7;
+    border-radius: 8px 8px 0px 0px;
+    border-collapse: collapse;
+}
+
+table#tabHeadtab h2#tht1 {
+    font-size: 15pt;
+    text-align: left;
+    padding: 10px;
+}
+
+table#tabHeadtab h2#tht2 {
+    font-size: 15pt;
+    display: block;
+    padding: 10px 60px 10px 30px;
+    text-align: right;
+}
+
+
+/*Troca 1*/
+
+table#tabT1 {
+    width: 100%;
+    background-color: #e4e4e4;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+table,
+th,
+td {
+    border-collapse: collapse;
+}
+
+#tabT1 th {
+    padding: 5px;
+    text-align: center;
+    font-size: 15pt;
+    text-shadow: 1px 1px 3px rgb(255, 255, 255);
+    border-collapse: collapse;
+    padding: 10px;
+    background-color: rgb(226, 226, 226);
+}
+
+table#tabT1 td {
+    padding: 5px 20px 5px 20px;
+    border-collapse: collapse;
+    margin-left: 50px;
+}
+
+
+/*Troca 2*/
+
+table#tabT2 {
+    width: 100%;
+    background-color: #e4e4e4;
+    border-collapse: collapse;
+    margin-bottom: 10px;
+}
+
+table,
+th,
+td {
+    border-collapse: collapse;
+}
+
+#tabT2 th#th1 {
+    padding: 5px;
+    text-align: center;
+    font-size: 15pt;
+    text-shadow: 1px 1px 3px rgb(255, 255, 255);
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+#tabT2 th#th2 {
+    padding: 5px;
+    text-align: center;
+    font-size: 15pt;
+    text-shadow: 1px 1px 3px rgb(0, 255, 0);
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+table#tabT2 td {
+    padding: 5px 20px 5px 20px;
+    border-collapse: collapse;
+    margin-left: 50px;
+}
+
+
+/*Troca 3*/
+
+table#tabbT3 {
+    width: 100%;
+    background-color: #e4e4e4;
+    border-collapse: collapse;
+    margin-bottom: 10px;
+}
+
+table,
+th,
+td {
+    border-collapse: collapse;
+}
+
+table#tabbT3 th#th1 {
+    padding: 5px;
+    text-align: center;
+    font-size: 15pt;
+    text-shadow: 1px 1px 3px rgb(21, 255, 0);
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+table#tabbT3 th#th2 {
+    padding: 5px;
+    text-align: center;
+    font-size: 15pt;
+    text-shadow: 1px 1px 3px rgb(4, 0, 255);
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+table#tabbT3 td {
+    padding: 5px;
+    border-collapse: collapse;
+    margin-left: 50px;
+    padding: 5px 20px 5px 20px;
+}
+
+
+/*Troca 4*/
+
+table#tabbT4 {
+    width: 100%;
+    background-color: #e4e4e4;
+    border-collapse: collapse;
+    margin-bottom: 10px;
+}
+
+table,
+th,
+td {
+    border-collapse: collapse;
+}
+
+table#tabbT4 th#th1 {
+    padding: 5px;
+    text-align: center;
+    font-size: 15pt;
+    text-shadow: 1px 1px 3px rgb(4, 0, 255);
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+table#tabbT4 th#th2 {
+    padding: 5px;
+    text-align: center;
+    font-size: 15pt;
+    text-shadow: 1px 1px 3px rgb(217, 255, 0);
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+table#tabbT4 td {
+    padding: 5px;
+    border-collapse: collapse;
+    margin-left: 50px;
+    padding: 5px 20px 5px 20px;
+}
+
+
+/*Troca 5*/
+
+table#tabbT5 {
+    width: 100%;
+    background-color: #e4e4e4;
+    border-collapse: collapse;
+    margin-bottom: 10px;
+}
+
+table,
+th,
+td {
+    border-collapse: collapse;
+}
+
+table#tabbT5 th#th1 {
+    padding: 5px;
+    text-align: center;
+    font-size: 15pt;
+    text-shadow: 1px 1px 3px rgb(217, 255, 0);
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+table#tabbT5 th#th2 {
+    padding: 5px;
+    text-align: center;
+    font-size: 15pt;
+    text-shadow: 1px 1px 3px rgb(255, 0, 0);
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+table#tabbT5 td {
+    padding: 5px;
+    border-collapse: collapse;
+    margin-left: 50px;
+    padding: 5px 20px 5px 20px;
+}
+
+
+/**/
+
+#trocaR1 {
+    background-color: #dadadad8;
+    font-size: 17pt;
+    text-align: center;
+    margin-bottom: -10px;
+}
+
+#trocaR2 {
+    background-color: #dadadad8;
+    font-size: 17pt;
+    text-align: center;
+    margin-top: 10px;
+}
+
+#trocaR3 {
+    background-color: #dadadad8;
+    font-size: 17pt;
+    text-align: center;
+    margin-top: 10px;
+}
+
+#trocaR4 {
+    background-color: #dadadad8;
+    font-size: 17pt;
+    text-align: center;
+    margin-top: 10px;
+}
+
+#trocaR5 {
+    background-color: #dadadad8;
+    font-size: 17pt;
+    text-align: center;
+    margin-top: 10px;
+}
+
+#diagnostico {
+    background-color: #e4e4e4;
+    padding: 10px 30px 10px 30px;
+}
+
+
+/**/
+
+#diagno {
+    background-color: #dadadad8;
+    font-size: 17pt;
+    text-align: center;
+    margin-bottom: -10px;
+}
+
+.col-4 {
+    background-color: #e4e4e4;
+}
+
+#formCadastro {
+    background-color: #819caa;
+    padding: 25px;
+    border-radius: 10px;
+    margin-bottom: 60px;
+    width: 100%;
+}
+
+.apresentacao {
+    margin-bottom: 50px;
+}
+
+.grid-tabela {
+    background-color: rgb(238, 238, 238);
+    padding: 40px;
+    border-radius: 10px;
+}

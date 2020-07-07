@@ -1,0 +1,14 @@
+200 Água Potável Purificada
+201 Caixa de Ostra da Melhor Qualidade
+202 Enfeite de Casca Caranguejo Eremita
+203 Esfera de Cinco Cores
+204 Espinho do Ouriço-do-mar
+205 Item de Resgate Marítimo
+206 Marmita da Vila da Ilha
+207 Mastro de Navio Pirata
+208 Moeda de Ouro do Castelo Cron
+209 Moeda de Ouro do Pirata
+210 Pepino do Mar de Narvo
+211 Tábua de Pedra Ampla
+212 Tentáculo da Criatura
+213 Torre de Rocha Balanceada

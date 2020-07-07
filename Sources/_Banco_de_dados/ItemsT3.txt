@@ -1,0 +1,14 @@
+300 Ampulheta Antiga
+301 Binóculos de Batedor
+302 Caixa de Suprimento dos Piratas
+303 Carpete com desenho de Esqueleto
+304 Casaco de Couro de Doninha
+305 Estilhaço de Estalactite
+306 Faca de Cozinha Meia Lua
+307 Mapa de Tesouro rasgado do Pirata
+308 Missiva Velha
+309 Pacote de Vela Azul
+310 Pilha de Ervas Raras
+311 Rede de Lopters
+312 Sangue Espesso de Criatura
+313 Xícara com Decoração de Esqueleto

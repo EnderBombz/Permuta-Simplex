@@ -1,0 +1,69 @@
+|------------------------------|---------------|-----------------|
+|             Item	       | Valor da rota |  quant. p/ rota | 
+|------------------------------|---------------|-----------------|
+Lã				R$ 148.800	40
+Pó de Chama 			R$ 400.000	200
+Fio de Linho 			R$ 534.000	200
+Azaleia Prata 			R$ 572.700	2.300
+Tecido de Linho 		R$ 510.000	50
+Tábua de Sabugueiro 		R$ 519.000	300
+Pó do Tempo 			R$ 492.000	200
+Galho de Monge 			R$ 1.460.000	200
+Saco de Água Suja 		R$ 567.000	300
+Laço de Árvore Sangrenta 	R$ 1.020.000	100
+Sangue do Pecador 		R$ 845.000	50
+Pedra Áspera 			R$ 754.000	200
+Lingote de Cobre 		R$ 840.000	100
+Água Purificada 		R$ 988.000	200
+Fragmento do Ferro Derretido 	R$ 1.824.000	600
+Cogumelo Nuvem 			R$ 913.000	1.100
+Caroço de Árvore Vermelha 	R$ 2.670.000	100
+Pó de Rachadura 		R$ 880.000	200
+Sangue de Palhaço 		R$ 1.048.000	80
+Grama Selvagem 			R$ 565.000	500
+Folha de Espírito 		R$ 1.930.000	200
+Trigo 				R$ 1.176.000	700
+Pilha de Erva Aurora 		R$ 990.000	900
+Cristal Negro Bruto 		R$ 865.000	100
+Pó de Escuridão 		R$ 1.690.000	200
+Carne de Pássaro Grelhada 	R$ 1.428.000	600
+Cristal Vermelho Bruto 		R$ 1.340.000	100
+Cristal Verde Bruto 		R$ 1.400.000	100
+Cristal Lama Bruto 		R$ 1.450.000	100
+Cristal Azul Bruto 		R$ 1.530.000	100
+Cerveja 			R$ 1.962.000	600
+Essência do Liquor 		R$ 1.834.000	1.400
+Carvão Processado 		R$ 1.724.000	400
+Grama Selvagem 			R$ 1.017.000	900
+Anise Estrelar 			R$ 984.000	600
+Cogumelo Vidente		R$ 2.175.000	2.900
+Cogumelo Flecha Grande 		R$ 2.240.000	1.000
+Vinagre 			R$ 2.674.000	1.400
+Minério de Chumbo 		R$ 2.709.000	900
+Minério de Ferrugem 		R$ 2.601.000	900
+Fruto da Abundância 		R$ 2.760.000	20
+Fruto do Poder Mágico 		R$ 2.760.000	20
+Fio Tricô 			R$ 2.820.000	200
+Pistache 			R$ 1.364.000	1.100
+Carne Moída de Pássaro 		R$ 3.376.000	800
+Fruta da Destruição 		R$ 4.410.000 	70
+Noz-Moscada 			R$ 4.752.000 	1.200
+Tábua de Cedro 			R$ 1.386.000 	600
+Casulo de Bicho-da-seda 	R$ 3.003.000 	1.100
+Couro de Lobo Plumado 		R$ 3.810.000 	600
+Cristal Violeta Bruto 		R$ 2.700.000 	400
+Linho 				R$ 2.448.000  	1.700
+Tronco 				R$ 3.900.000  	400
+Couro de Lobo 			R$ 3.960.000  	600
+Casca de Cacto 			R$ 3.630.000  	1.500
+Aloés 				R$ 4.103.000 	1.100
+Pó da Terra 			R$ 4.260.000  	200
+Casca de Árvore Velha 		R$ 4.500.000  	200
+Seiva de Acácia 		R$ 4.740.000  	600
+Seiva de Cedro Branco 		R$ 4.740.000  	600
+Seiva de Sabugueiro 		R$ 4.960.000  	400
+Ensopado de Carne Forte 	R$ 4.040.000  	200
+Fruto da Natureza 		R$ 5.520.000  	40
+Tábua de Árvore-Anel 		R$ 7.140.000 	600	 	  
+Cristal Violeta 		R$ 10.700.000 	200	 
+Pluma suave de Ferry 		R$ 1.020.000 	1.200 

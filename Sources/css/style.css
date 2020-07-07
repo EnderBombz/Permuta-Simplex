@@ -1,0 +1,11 @@
+body {
+    background-color: seagreen;
+}
+
+#menu1:hover {
+    color: #ffd740;
+}
+
+.borda-filtro {
+    border: 1px solid rgba(0, 0, 0, .2);
+}
